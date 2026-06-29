@@ -1,0 +1,22 @@
+{
+	"id": "panel-click-to-toggle",
+	"name": "Panel Toggle",
+	"version": "1.0.0",
+	"description": "Adds a hold-to-preview eye to every Develop panel header. Press and hold to see the image with that panel switched off; release to restore. View-only and momentary, so it never alters the photo, thumbnails or export.",
+	"author": "Anthony Reimche",
+	"main": "index.js",
+	"categories": ["Develop"],
+	"keywords": [
+		"panel",
+		"toggle",
+		"preview",
+		"bypass",
+		"eye",
+		"before-after",
+		"compare",
+		"off"
+	],
+	"license": "MIT",
+	"repository": "https://github.com/anthonyreimche/Panel-Toggle",
+	"min-version": "2.4.3"
+}
